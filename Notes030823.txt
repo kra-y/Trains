@@ -1,0 +1,62 @@
+For this research project, I will potentially look into spatial analysis of crash data
+
+
+My prior assumptions are that rail sections that run through poorer communities will be in further disrepair, raising the likelihood of derailments. 
+
+
+Early questions in dTA COLLECTION:
+
+-Which federal, state, and private entities are responsible for maintaining rail sections? 
+
+In the United States, the responsibility for maintaining rail sections varies depending on the ownership and location of the tracks. Generally, the following entities are responsible for maintaining different sections of the rail system:
+
+Federal Government: The Federal Railroad Administration (FRA), a division of the U.S. Department of Transportation, is responsible for regulating and overseeing the safety of the country's railroad system.
+State Governments: State governments also have a role in maintaining rail systems, particularly commuter and light rail systems. Some states own and operate their own railroads, such as the Alaska Railroad or the Massachusetts Bay Transportation Authority (MBTA). In other cases, states may provide funding or regulation for privately owned railroads operating within their borders.
+Private Companies: Many railroads in the U.S. are privately owned and operated, and these companies are responsible for maintaining their own tracks and infrastructure. Some of the major freight railroads in the U.S. include Union Pacific, BNSF, and CSX.
+Amtrak: Amtrak is a government-owned corporation that operates passenger rail service throughout the U.S. The company owns some of its own tracks and infrastructure, but also uses tracks owned by other entities, such as freight railroads.
+Overall, responsibility for maintaining rail sections in the U.S. is shared among federal and state governments, private companies, and Amtrak, depending on the specific location and ownership of the tracks.
+
+
+-Which entities enforce regulations?
+
+The following entities enforce federal and state regulations on US railways:
+
+Federal Railroad Administration (FRA): The FRA is a division of the U.S. Department of Transportation and is responsible for enforcing federal regulations on railways, including safety regulations, engineering standards, and operating practices.
+State Governments: State governments also have regulatory authority over railways operating within their borders. State departments of transportation or public utility commissions may oversee safety inspections, licensing, and permitting.
+Surface Transportation Board (STB): The STB is an independent federal agency that regulates and resolves disputes related to the interstate transportation of goods by rail, including rates, service, and access to rail lines.
+Occupational Safety and Health Administration (OSHA): OSHA is a federal agency responsible for enforcing workplace safety regulations, including those related to rail workers.
+Environmental Protection Agency (EPA): The EPA is a federal agency responsible for enforcing environmental regulations that apply to railways, including regulations related to hazardous materials transportation and air emissions.
+Overall, the enforcement of federal and state regulations on US railways involves multiple entities, including the FRA, state governments, the STB, OSHA, and the EPA, each with their specific regulatory authority and responsibilities.
+
+
+-What factors contribute to train derailments?
+
+Train derailments can be caused by a variety of factors, which may include:
+
+Track Defects: One of the most common causes of train derailments is track defects, such as broken rails, worn or missing rail fasteners, or improper alignment. These defects can cause the train to derail when it hits a bump or when the track shifts.
+Human Error: Human error is another significant factor in train derailments. This can include errors by train crew, such as operating the train at an unsafe speed or not following proper procedures, or errors by maintenance personnel, such as improperly installing rail components.
+Equipment Failure: Malfunctioning equipment can also cause train derailments. This may include failures of brakes, wheels, axles, or other mechanical components of the train.
+Weather Conditions: Adverse weather conditions, such as heavy rain, flooding, snow or ice, can also contribute to train derailments by damaging tracks or causing trains to lose traction.
+Sabotage or Vandalism: Deliberate acts of sabotage or vandalism can also cause train derailments. These may include placing objects on the tracks or tampering with the rail infrastructure.
+Natural Disasters: Natural disasters, such as earthquakes or landslides, can also lead to train derailments by damaging tracks or causing the ground to shift.
+Overall, train derailments can be caused by a variety of factors, and identifying the specific cause of a derailment requires a thorough investigation by experts in rail safety and maintenance.
+
+
+-Who funds rail maintenance?
+
+
+Rail maintenance in the U.S. is primarily funded by a combination of private companies and public entities, including federal and state governments. The following are some of the ways in which rail maintenance is funded:
+
+Private Companies: Private rail companies, such as freight railroads, are responsible for maintaining their own tracks and infrastructure. These companies fund their maintenance activities through their own revenues.
+Federal Government: The federal government provides funding for rail maintenance through various programs, such as the Federal Railroad Administration's Railroad Rehabilitation and Improvement Financing (RRIF) program, which offers low-interest loans to rail companies for capital improvements, and the Consolidated Rail Infrastructure and Safety Improvements (CRISI) program, which provides grants for rail infrastructure projects.
+State Governments: State governments also provide funding for rail maintenance through various programs, such as the State of Good Repair Program, which provides grants for rail infrastructure projects to improve safety and reliability.
+Passenger Rail Service Providers: Passenger rail service providers, such as Amtrak and commuter rail agencies, also fund rail maintenance activities, including track and infrastructure maintenance, through their own revenues and government subsidies.
+Overall, rail maintenance in the U.S. is funded through a combination of private and public funding sources, including private rail companies, federal and state governments, and passenger rail service providers. The specific funding sources and amounts vary depending on the location, ownership, and type of rail infrastructure being maintained.
+
+
+A note on using zip code-level estimates of median household income:
+the margins of error around the median household income estimates can be relatively large. This is because the sample sizes are smaller, and therefore the estimates are less precise. So while the data is available at the zip code level, it should be used with caution and the margins of error should be taken into account.
+
+
+In estimating the derailment likelihood scores (DLS), I want to investigate the following questions
+

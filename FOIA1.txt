@@ -1,0 +1,36 @@
+FOIA request 1:
+Keith Richard Araneo-Yowell
+2073 Gramercy Ave
+Ogden, Utah 84401
+(801)230-7914
+keitharaneo@gmail.com <mailto:keitharaneo@gmail.com>
+
+Federal Railroad Administration
+Office of Chief Counsel
+1200 New Jersey Avenue SE
+Washington, DC 20590
+
+Dear FOIA Officer,
+
+I am writing to request time series data on train accidents and railroad infrastructure for the past 10 years from the Federal Railroad Administration (FRA), pursuant to the Freedom of Information Act (FOIA), 5 U.S.C. § 552.
+I am interested in using this data to develop predictive models that analyze various factors, such as the type of traffic on rail sections, the age and location of rail sections, the repair dates of rail sections, and qualities of the type of accident, including the date of the accident, the rail section of the accident, type of accident, the type of train, the number of cars, and potentially the weight of the train and/or train cars. This project will help me develop my professional portfolio and apply my skills in time series modeling and spatial analysis to a real-world problem.
+To the fullest extent possible, I am requesting records that include information on:
+   • All train accidents that have occurred in the United States in the past 10 years, including the date, location, type of train, number of cars, and any other relevant information about the accident.
+   • Information about railroad infrastructure, such as the age of the rail section, number of repairs on a section, and other relevant data.
+   • Any other records related to train accidents and railroad infrastructure that may be helpful for my project.
+I am willing to pay fees associated with this request and have indicated my fee category below. Please note that I cannot afford to pay more than the maximum amount of fees I have listed.
+Fee Category: 
+[ ] Commercial
+[ ] Educational/Non-commercial scientific institution 
+[ ] News media 
+[X] Other (please specify): Job applicant seeking to build professional portfolio
+
+Willingness to pay fees: Yes
+Maximum amount of fees willing to pay: $50
+Please send responsive records in electronic format, preferably as a CSV file or Excel spreadsheet.
+If you have any questions or require further information to process this request, please do not hesitate to contact me using the information provided above.
+Thank you for your attention to this matter.
+
+Sincerely,
+
+Keith R. Araneo-Yowell, MSTAT

@@ -1,0 +1,7 @@
+Data for last 10 years:
+
+Section ID
+Section Location
+Section Ownership
+Rail System Type
+Year
